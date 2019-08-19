@@ -87,7 +87,13 @@ Creative .NET Developer with 4+ years of strong experience in Single Page Apps, 
 
 ## Chris Hanson
 ---
-Innovative Angular Developer with 6+ years of comprehensive experience in UI/UX & Design, Front-end Development areas with willingness to learn and master NoSQL and Knowledge Management. Angular adept.
+Innovative Angular Developer with 6+ years of comprehensive experience in UI/UX & Design, Front-end Development areas with a willingness to learn and master NoSQL and Knowledge Management. Angular adept.
+
+![Real Angular Developer Resume Sample DOCX](https://www.fullstackresume.com/images/angular-developer-resume-template-1-lg.jpg)
+
+![Real Angular Developer Resume Sample DOCX](https://www.fullstackresume.com/images/angular-developer-resume-template-2-lg.jpg)
+
+[>> Download Word, DOCX Version Now Here <<](https://www.fullstackresume.com/blog/angular-developer-resume-sample)
 
 ## CONTACTS
 ---
@@ -177,4 +183,3 @@ Innovative Angular Developer with 6+ years of comprehensive experience in UI/UX 
 ---
 * Spanish language: Fluent proficiency
 * German language: Professional proficiency
-
