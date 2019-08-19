@@ -4,13 +4,19 @@
 ---
 Innovative Angular Developer with 6+ years of comprehensive experience in UI/UX & Design, Front-end Development areas with a willingness to learn and master NoSQL and Knowledge Management. Angular adept.
 
-[>> Download Word, DOCX Version Now Here <<](https://www.fullstackresume.com/blog/angular-developer-resume-sample)
+[>> Download Word, DOCX Version Now <<](https://www.fullstackresume.com/blog/angular-developer-resume-sample)
+<table>
+ <tr>
+  <td>
+  <img src="https://www.fullstackresume.com/images/angular-developer-resume-template-1-lg.jpg"/>
+  </td>
+  <td>
+   <img src="https://www.fullstackresume.com/images/angular-developer-resume-template-2-lg.jpg"/>
+  </td>
+ <tr>
+</table>
 
-![Real Angular Developer Resume Sample DOCX](https://www.fullstackresume.com/images/angular-developer-resume-template-1-lg.jpg)
-
-![Real Angular Developer Resume Sample DOCX](https://www.fullstackresume.com/images/angular-developer-resume-template-2-lg.jpg)
-
-[>> Download Word, DOCX Version Now Here <<](https://www.fullstackresume.com/blog/angular-developer-resume-sample)
+[>> Download Word, DOCX Version Now <<](https://www.fullstackresume.com/blog/angular-developer-resume-sample)
 
 ## CONTACTS
 ---
