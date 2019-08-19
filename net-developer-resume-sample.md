@@ -4,13 +4,19 @@
 ---
 Creative .NET Developer with 4+ years of strong experience in Single Page Apps, GOF Design Patterns & OOP areas with willingness to learn and master Web Servers Administration and Testing, DDD/TDD. DevOps practitioner.
 
-[>> Download Word Version <<](https://www.fullstackresume.com/blog/net-developer-resume-sample)
+[>> Download Word, DOCX Version Now <<](https://www.fullstackresume.com/blog/net-developer-resume-sample)
+<table>
+ <tr>
+  <td>
+  <img src="https://www.fullstackresume.com/images/net-developer-resume-template-1-lg.jpg"/>
+  </td>
+  <td>
+   <img src="https://www.fullstackresume.com/images/net-developer-resume-template-2-lg.jpg"/>
+  </td>
+ <tr>
+</table>
 
-![Real .NET Developer Resume Sample To Download](https://www.fullstackresume.com/images/net-developer-resume-template-1-lg.jpg)
-
-![Real .NET Developer Resume Sample To Download](https://www.fullstackresume.com/images/net-developer-resume-template-2-lg.jpg)
-
-[>> Download Word Version <<](https://www.fullstackresume.com/blog/net-developer-resume-sample)
+[>> Download Word, DOCX Version Now <<](https://www.fullstackresume.com/blog/net-developer-resume-sample)
 
 ## CONTACTS
 ---
