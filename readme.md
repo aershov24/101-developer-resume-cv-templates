@@ -10,10 +10,10 @@ Great Examples of Real Developers Resume/CV Samples & Templates To Download (Wor
 <table>
  <tr>
   <td>
-  <img src="https://www.fullstackresume.com/images/software-developer-resume-template-1-lg.jpg"/>
+  <img src="https://www.fullstackresume.com/images/full-stack-developer-resume-template-1-lg.jpg"/>
   </td>
   <td>
-   <img src="https://www.fullstackresume.com/images/software-developer-resume-template-2-lg.jpg"/>
+   <img src="https://www.fullstackresume.com/images/full-stack-developer-resume-template-2-lg.jpg"/>
   </td>
  <tr>
 </table>
