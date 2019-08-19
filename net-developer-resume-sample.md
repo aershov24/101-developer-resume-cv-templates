@@ -1,7 +1,7 @@
 # .NET Developer Resume/CV Sample & Template To Download
 
 ## Derrick Barrett | .NET Developer Resume
----
+
 Creative .NET Developer with 4+ years of strong experience in Single Page Apps, GOF Design Patterns & OOP areas with willingness to learn and master Web Servers Administration and Testing, DDD/TDD. DevOps practitioner.
 
 [>> Download Word, DOCX Version Now <<](https://www.fullstackresume.com/blog/net-developer-resume-sample)
@@ -19,14 +19,12 @@ Creative .NET Developer with 4+ years of strong experience in Single Page Apps, 
 [>> Download Word, DOCX Version Now <<](https://www.fullstackresume.com/blog/net-developer-resume-sample)
 
 ## CONTACTS
----
 * **Phone**: (242)-624-9264
 * **Email**: derrick.barrett36@gmail.com
 * LinkedIn: linkedin.com/derrick.barrett
 * Github: github.com/derrick.barrett
 
 ## KEY SKILLS
----
 
 ### **Front End**:
 * Anguar 5/6, CSS3, HTML5
@@ -52,7 +50,6 @@ Creative .NET Developer with 4+ years of strong experience in Single Page Apps, 
 * BRD, GoF Design Patterns, OOP
 
 ## WORK HISTORY
----
 
 ### **Dekker BV, Senior .NET Developer**, 03/2014 - 02/2017 | Noadam, LA
 * Conducting requirements gathering and validation as a part of collaboration for the critical single page application that helped to address important UI/UX parts of the system's user interface before the active phase of development.
@@ -70,17 +67,14 @@ Creative .NET Developer with 4+ years of strong experience in Single Page Apps, 
 * Performance tunning of the legacy data storages and search queries of the high-volume customers-facing portal applying knowledge of NHibernate improving system's response time by 75%
 
 ## SIDE PROJECTS
----
 
 ### **FullStack.Cafe - Never Fail Tech Interview, Creator** | www.fullstack.cafe  
 * FullStack.Cafe is a smartest way to nail your Full Stack tech interview. It has more than 2800 Interview Questions and Answers sourced from any possible resources on Internet and presented in a concise, unobtrusive way for high-focusing interview preparation process. ~20'000 MAU.
 
 ## EDUCATION
----
 * Massachusetts Institute of Technology (MIT), USA, 2003 - 2010. Business - Information Systems (Business Informatics), Health Informatics.
 
 ## ADDITIONAL INFORMATION
----
 * German language: Fluent proficiency
 * Permanent Resident
 * ABN
