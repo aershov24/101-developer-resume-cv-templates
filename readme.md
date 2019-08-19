@@ -1,15 +1,20 @@
 Great Examples of Real Developers Resume/CV Samples & Templates To Download (Word/PDF/DOCX) From [FullStackResume.com](https://www.fullstacresume.com). Probably The Only Resume Template You Need To Land Developer Job.
----
 
 # <a name='toc'>Developer Resume/CV Samples & Templates To Download (WORD/DOCX/PDF)</a>
  * [.NET Developer Resume/CV](https://github.com/aershov24/101-developer-resume-cv-templates/blob/master/net-developer-resume-sample.md)
  * [Angular Developer Resume/CV](https://github.com/aershov24/101-developer-resume-cv-templates/blob/master/angular-developer-resume-sample.md)
 
 [>> Download Word, DOCX Version Now <<](https://www.fullstackresume.com/blog/software-developer-resume-sample)
-
-![Real Angusoftwarelar Developer Resume Sample DOCX](https://www.fullstackresume.com/images/software-developer-resume-template-1-lg.jpg)
-
-![Real software Developer Resume Sample DOCX](https://www.fullstackresume.com/images/software-developer-resume-template-2-lg.jpg)
+<table>
+ <tr>
+  <td>
+  <img src="https://www.fullstackresume.com/images/software-developer-resume-template-1-lg.jpg"/>
+  </td>
+  <td>
+   <img src="https://www.fullstackresume.com/images/software-developer-resume-template-2-lg.jpg"/>
+  </td>
+ <tr>
+</table>
 
 [>> Download Word, DOCX Version Now <<](https://www.fullstackresume.com/blog/software-developer-resume-sample)
  
