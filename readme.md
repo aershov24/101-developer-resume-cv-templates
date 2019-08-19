@@ -1,11 +1,13 @@
-## <a name='toc'>Table of Contents</a>
+# <a name='toc'>Developer Resume Samples & Templates (WORD/DOCX/PDF)</a>
  * [.NET Developer Resume/CV](#.NETDeveloperResume)
 
-# [[⬆]](#toc) <a name=.NETDeveloperResume>ASP.NET</a> Sample & Template
+# [[⬆]](#toc) <a name=.NETDeveloperResume>.NET Developer Resume</a> Sample & Template
 
 ## Derrick Barrett | .NET Developer Resume
 ---
 Creative .NET Developer with 4+ years of strong experience in Single Page Apps, GOF Design Patterns & OOP areas with willingness to learn and master Web Servers Administration and Testing, DDD/TDD. DevOps practitioner.
+
+[>> Download Word Version](https://www.fullstackresume.com/blog/net-developer-resume-sample)
 
 ![Real .NET Developer Resume Sample To Download](https://www.fullstackresume.com/images/net-developer-resume-template-1-lg.jpg)
 
