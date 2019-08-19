@@ -1,7 +1,7 @@
 # Angular Developer Resume/CV Sample & Template To Download
 
 ## Chris Hanson
----
+
 Innovative Angular Developer with 6+ years of comprehensive experience in UI/UX & Design, Front-end Development areas with a willingness to learn and master NoSQL and Knowledge Management. Angular adept.
 
 [>> Download Word, DOCX Version Now <<](https://www.fullstackresume.com/blog/angular-developer-resume-sample)
@@ -19,14 +19,13 @@ Innovative Angular Developer with 6+ years of comprehensive experience in UI/UX 
 [>> Download Word, DOCX Version Now <<](https://www.fullstackresume.com/blog/angular-developer-resume-sample)
 
 ## CONTACTS
----
+
 * **Phone**: (577)-342-6840
 * **Email**: chris@gmail.com
 * LinkedIn: @chris
 * Github: @chris
 
 ## KEY SKILLS
----
 
 ### **Front End**:
 * Angular 2+, AngularJS, Babel, CSS3
@@ -59,7 +58,6 @@ Innovative Angular Developer with 6+ years of comprehensive experience in UI/UX 
 * GoF Design Patterns, Jira, SOLID principles
 
 ## WORK HISTORY
----
 
 ### **Metz LLC, Angular Developer**, 03/2014 - 02/2017 | Sybletown, GA 
 * Developing new product features for the critical external web app using Azure Data Factory and Neo4j. As a result 5 bugs-free releases have been deployed just-in-time.
@@ -86,7 +84,6 @@ Innovative Angular Developer with 6+ years of comprehensive experience in UI/UX 
 * Performing unit & load testing for the high-profile internal web application that helped to improve system's stability and scalability by identification critical performance issues during development phase
 
 ## SIDE PROJECTS
----
 
 ### **Gravity - Build your React & Node.js SaaS app in minutes, CEO** | usegravity.app
 * Save weeks of time and build your React & Node.js SaaS app in minutes
@@ -99,10 +96,8 @@ Innovative Angular Developer with 6+ years of comprehensive experience in UI/UX 
 * $3k MRR in revenue
 
 ## EDUCATION
----
 * Stanford University, 1989 - 1992. Philosophy - Applied Philosophy, Philosophy Of Science
 
 ## ADDITIONAL INFORMATION
----
 * Spanish language: Fluent proficiency
 * German language: Professional proficiency
