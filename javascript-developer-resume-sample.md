@@ -1,7 +1,7 @@
 Real JavaScript Developer Resume Sample To [Download](https://www.fullstackresume.com/blog/javascript-developer-resume-sample) - The Only Resume Template You Need To Land JavaScript Developer Job.
 
 ## Sheila VonRueden | JavaScript Web Developer
----
+
 Inspired JavaScript Web Developer with 6+ years of strong experience in Graph Databases, Testing, DDD/TDD areas with willingness to learn and master SEO and Web Components. Microservices & Containerisation specialist.
 
 
@@ -21,14 +21,14 @@ Inspired JavaScript Web Developer with 6+ years of strong experience in Graph Da
 [>> Download Word, DOCX Version Now <<](https://www.fullstackresume.com/blog/javascript-developer-resume-sample)
 
 ## CONTACTS
----
+
 * **Phone**: (865) 646-9443 x04790
 * **Email**: sheila40@gmail.com
 * LinkedIn: @sheila40
 * Github: @sheila40
 
 ## KEY SKILLS
----
+
 
 ### **Front End**:
 * Aurelia, Backbone, Ember.js
@@ -57,7 +57,7 @@ Inspired JavaScript Web Developer with 6+ years of strong experience in Graph Da
 * UML
 
 ## WORK HISTORY
----
+
 
 ### **Corkery - McDermott, Full-Stack Developer**, 01/2014 - 12/2016 | South Haleighborough, NH 
 * Designing new databases and data schemas for the high-volume single page application improving data integrity and execution efficiency utilizing SQLLite and POSTGIS
@@ -80,19 +80,19 @@ Inspired JavaScript Web Developer with 6+ years of strong experience in Graph Da
 * Resolved technical problems relating to the critical external web app that helped to tune system performance and decrease average response time
 
 ## SIDE PROJECTS
----
+
 
 ### **FullStack.Cafe - Never Fail Tech Interview, Founder** | www.fullstack.cafe  
 * FullStack.Cafe is a smartest way to nail your Full Stack tech interview. It has more than 2800 Interview Questions and Answers sourced from any possible resources on Internet and presented in a concise, unobtrusive way for high-focusing interview preparation process
 * ~20'000 MAU
 
 ## EDUCATION
----
+
 * Master of Design. Universidad Maritima de Chile, Chile, 2003 - 2010. 
 * Full-Stack Web Development Course with React. Code Avengers. 
 
 ## ADDITIONAL INFORMATION
----
+
 * Bengali language: Native expertise
 * French language: Fluent expertise
 * Visa Status: Permanent Resident
