@@ -83,12 +83,10 @@ Creative Node.js Developer with 12+ years of strong experience in Operating Syst
 * ~20'000 MAU.
 
 ## EDUCATION
----
 * Master of Communication. Salem University, Nigeria, 2003 - 2010. 
 * Intro to Coding and Programming - Nanodegree. Code Avengers. 
 
 ## ADDITIONAL INFORMATION
----
 * Bengali language: Native proficiency
 * Arabic language: Fluent proficiency
 * Visa Status: Permanent Resident
