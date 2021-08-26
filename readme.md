@@ -23,13 +23,13 @@ Great, A/B Tested Examples of Real Developers Resume/CV Samples & Templates To D
 
 ## Tech, Coding & System Design Interview Questions
 
-👉 For 3877 Tech & Coding Interview Questions (ANSWERED) [FullStack.Cafe - Kill Your Tech & Coding Interview](https://www.fullstack.cafe/?utm_source=github&utm_medium=fsiq)
+👉 For 3877 Tech & Coding Interview Questions (ANSWERED) [FullStack.Cafe - Kill Your Tech & Coding Interview](https://www.fullstack.cafe/?utm_source=github&utm_medium=fsriq)
 
 ---
 
 ## Machine Learning & Data Science Interview Questions 🤖🤖🤖
 
-👉 For 1299 ML & DataScience Interview Questions Check  [MLStack.Cafe - Kill Your Machine Learning, Data Science & Python Interview](https://www.mlstack.cafe/?utm_source=github&utm_medium=fsiq)
+👉 For 1299 ML & DataScience Interview Questions Check  [MLStack.Cafe - Kill Your Machine Learning, Data Science & Python Interview](https://www.mlstack.cafe/?utm_source=github&utm_medium=fsriq)
 
 # Developer Resume Writing: The Complete Guide
  
